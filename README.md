@@ -1,2 +1,2 @@
-# first-repo
+# Machine learning
 just exploring my way
