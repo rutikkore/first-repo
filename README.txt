@@ -34,5 +34,4 @@ FILES:
 - canteen_clusters_plot.png : Saved after plotting
 
 AUTHOR:
--------
-Your Name Here
+Rutik Kore
